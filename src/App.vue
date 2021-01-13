@@ -344,7 +344,7 @@
 
 <script>
 //import HelloWorld from './components/HelloWorld.vue'
-import data from '../../public/data.json'
+import data from '../public/data.json'
 export default {
   name: 'App',
   data() {
