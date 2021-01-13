@@ -78,7 +78,7 @@
       <p class="justify-end w-full text-right text-black"><i>Oprah Winfrey</i></p>
     </div>
     <div class="place-content-center self-center  m-3">
-      <img src='../src/assets/img/Squares.svg' width="440px" class="transform lg:scale-100 sm:scale-75">
+      <img src='../src/assets/img/Squares.svg' width="440" class="transform lg:scale-100 sm:scale-75">
     </div>
   </div>
   </div>
